@@ -4925,19 +4925,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\incorcadit\\.nuget\\packages\\": {}
+    "C:\\Users\\alexandru.rosca\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\incorcadit\\source\\repos\\EFCoreExample\\EFCoreExample\\EFCoreExample.csproj",
+      "projectUniqueName": "C:\\Users\\alexandru.rosca\\source\\repos\\EFCoreExample\\EFCoreExample\\EFCoreExample.csproj",
       "projectName": "EFCoreExample",
-      "projectPath": "C:\\Users\\incorcadit\\source\\repos\\EFCoreExample\\EFCoreExample\\EFCoreExample.csproj",
-      "packagesPath": "C:\\Users\\incorcadit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\incorcadit\\source\\repos\\EFCoreExample\\EFCoreExample\\obj\\",
+      "projectPath": "C:\\Users\\alexandru.rosca\\source\\repos\\EFCoreExample\\EFCoreExample\\EFCoreExample.csproj",
+      "packagesPath": "C:\\Users\\alexandru.rosca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexandru.rosca\\source\\repos\\EFCoreExample\\EFCoreExample\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\incorcadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexandru.rosca\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

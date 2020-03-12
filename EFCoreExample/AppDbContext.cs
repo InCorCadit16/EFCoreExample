@@ -5,12 +5,13 @@ using System.Text;
 
 namespace EFCoreExample
 {
-    class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         private const string ConnectionString =
-            @"Server = DESKTOP-JI6RI4R;
+            @"Server = (localdb)\MSSQLLocalDB;
                 Database = EfCoreDb;
-                Trusted_Connection=true";
+                Trusted_Connection=true;
+                Integrated Security=true";
 
         protected override void OnConfiguring(
             DbContextOptionsBuilder optionsBuilder)
