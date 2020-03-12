@@ -1,0 +1,4 @@
+C:\Users\incorcadit\source\repos\EFCoreExample\EFCoreExample\bin\Debug\netcoreapp3.1\EFCoreExample.exe
+C:\Users\incorcadit\source\repos\EFCoreExample\EFCoreExample\obj\Debug\netcoreapp3.1\EFCoreExample.csprojAssemblyReference.cache
+C:\Users\incorcadit\source\repos\EFCoreExample\EFCoreExample\obj\Debug\netcoreapp3.1\EFCoreExample.AssemblyInfoInputs.cache
+C:\Users\incorcadit\source\repos\EFCoreExample\EFCoreExample\obj\Debug\netcoreapp3.1\EFCoreExample.AssemblyInfo.cs
